@@ -1,0 +1,30 @@
+# Output knit files
+*.csv
+*.pdf
+*.html
+*.docx
+
+# LaTeX / Rmarkdown temp files
+*_files/
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+*.tex
+*.utf8.md
+*.knit.md
+
+# R
+.Rproj.user/
+.RData
+.Ruserdata
+*.Rproj
+.Rhistory
